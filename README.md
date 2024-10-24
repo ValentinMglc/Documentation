@@ -17,4 +17,5 @@ Le dépôt est structuré en dossiers, chacun correspondant à un projet spécif
 
 Pour télécharger le dépôt en local, utilisez la commande suivante :
    ```bash
-   git clone https://github.com/ton-compte-github/Documentation.git
+   git@github.com:ValentinMglc/Documentation.git
+   ```
