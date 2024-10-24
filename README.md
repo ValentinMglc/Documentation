@@ -9,7 +9,7 @@ Le dépôt est structuré en dossiers, chacun correspondant à un projet spécif
 
 ## Liste des Documentations
 
-1. **[Projet 1]** : Documentation pour un projet Fullstack Vue.js 3 + Tailwind CSS + Node.js + MongoDB.
+1. **[Projet 1](.Projet1/README.md** : Documentation pour un projet Fullstack Vue.js 3 + Tailwind CSS + Node.js + MongoDB.
 
 ## Comment utiliser ce dépôt
 
