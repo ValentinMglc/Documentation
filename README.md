@@ -13,7 +13,7 @@ Le dépôt est structuré en dossiers, chacun correspondant à un projet spécif
 
 ## Comment utiliser ce dépôt
 
-1. **Cloner le dépôt** :
+### 1. **Cloner le dépôt** :
 
 Pour télécharger le dépôt en local, utilisez la commande suivante :
    ```bash
