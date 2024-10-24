@@ -1,6 +1,6 @@
 # Documentation de Projets
 > [!NOTE]
->Bienvenue dans mon dépôt de documentation. Ce dépôt contient des documentations détaillées pour différents projets Fullstack que j'ai créés, incluant des technologies comme Vue.js, Tailwind CSS, Node.js, Express, MongoDB, et bien d'autres. Chaque projet a sa propre documentation dans un dossier dédié.
+>Bienvenue dans mon dépôt de documentation. Ce dépôt contient des documentations détaillées pour différents projets. Chaque projet a sa propre documentation dans un dossier dédié.
 
 ## Structure du Dépôt
 
